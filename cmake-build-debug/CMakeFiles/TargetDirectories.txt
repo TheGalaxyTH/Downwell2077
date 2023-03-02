@@ -1,0 +1,3 @@
+D:/privacy/downwell/cmake-build-debug/CMakeFiles/downwell.dir
+D:/privacy/downwell/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/privacy/downwell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
